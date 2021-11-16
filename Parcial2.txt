@@ -42,8 +42,8 @@ ceU/sIJN03r50AAAALbHNpQGxzaWJkb2M=
 -----END OPENSSH PRIVATE KEY-----
 
   Google cloud --> https://console.cloud.google.com/
-  Configurar virtual host linux --> https://www.digitalocean.com/community/tutorials/como-configurar-virtual-hosts-de-apache-en-ubuntu-16-04-es
-  Cerficicado SSL linux --> https://www.digitalocean.com/community/tutorials/how-to-create-a-self-signed-ssl-certificate-for-apache-in-ubuntu-20-04-es
-  https://www.genbeta.com/desarrollo/manual-de-gpg-cifra-y-envia-datos-de-forma-segura
+  Configurar virtual host linux (digitalocean) --> https://www.digitalocean.com/community/tutorials/como-configurar-virtual-hosts-de-apache-en-ubuntu-16-04-es
+  Cerficicado SSL linux (digitalocean) --> https://www.digitalocean.com/community/tutorials/how-to-create-a-self-signed-ssl-certificate-for-apache-in-ubuntu-20-04-es
+  GPG manual (genbeta) --> https://www.genbeta.com/desarrollo/manual-de-gpg-cifra-y-envia-datos-de-forma-segura
   
 
